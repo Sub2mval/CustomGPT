@@ -1,0 +1,7 @@
+python3 
+openai 
+gpt_index==0.4.24 
+PyPDF2 
+PyCryptodome 
+gradio 
+langchain==0.0.153
