@@ -1,4 +1,4 @@
-python3 
+
 openai 
 gpt_index==0.4.24 
 PyPDF2 
